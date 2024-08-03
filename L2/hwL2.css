@@ -1,0 +1,14 @@
+h1{
+    color: crimson;
+    font-size: 50px;
+}
+li{
+    color: cyan;
+    background-color: black;
+    width: 500px;
+}
+h2{
+    color: black;
+    background-color: darkgoldenrod;
+    width: 250px;
+}
