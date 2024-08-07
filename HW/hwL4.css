@@ -1,0 +1,20 @@
+#khung{
+    align-items: center;
+    justify-content: center;
+   background-color: green;
+   width: 500px;
+   padding: 50px;
+}
+#pl{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-size: 40px;
+}
+#kl{
+    background-color: white;
+    border-color: green;
+}
+#hJ{
+    margin-left: 20px;
+}
